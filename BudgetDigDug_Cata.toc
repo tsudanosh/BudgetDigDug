@@ -1,0 +1,8 @@
+## Name: BudgetDigDug
+## Title: |cff669DFFBudgetDigDug|r
+## Notes: Announce to guild how much you hate archaeology
+## Author: No One Cares
+## Version: 1.0.0
+
+# Core
+BudgetDigDug.lua
