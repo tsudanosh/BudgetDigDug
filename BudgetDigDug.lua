@@ -9,7 +9,6 @@ frame:RegisterEvent("COMBAT_LOG_EVENT")
 frame:RegisterEvent("RESEARCH_ARTIFACT_COMPLETE")
 frame:RegisterEvent("MOUNT_JOURNAL_USABILITY_CHANGED")
 frame:RegisterEvent("ZONE_CHANGED_NEW_AREA")
-
 --frame:RegisterEvent("PLAYER_STARTED_MOVING")
 
 local epicsToAnnounce = {
